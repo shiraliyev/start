@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+.deadpool{
+    background-image: url(../img/deadpool2.jpg);
+}
+.pr{
+    padding-right: 15vh;
+}
+.pl{
+    padding-left: 10vh;
+}
+.m1{
+    margin: 0 3vh;
+}
